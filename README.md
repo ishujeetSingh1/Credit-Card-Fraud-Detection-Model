@@ -31,5 +31,5 @@ Customer Trust: Cardholders gain confidence in their financial institutions, kno
 
 Cost Savings: Financial institutions save money by minimizing the need for chargebacks, investigations, and compensation for fraudulent transactions.
 
-# conclusion 
+# Conclusion 
 The Credit Card Fraud Detection Machine Learning Project is a data-driven initiative that leverages machine learning techniques to enhance the security of credit card transactions. By continuously learning and adapting to emerging fraud patterns, this project plays a crucial role in safeguarding both financial institutions and cardholders from the pervasive threat of credit card fraud.
